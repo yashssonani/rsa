@@ -8,7 +8,7 @@ a = 1682088224276115507182846781192007185625069191085232309309226782082456575898
 
 for x in range(1, e):
     b = N % a
-    print 'modul is', b
-    print 'a is ', a
+    print ('modul is', b)
+    print ('a is ', a)
     a = a - b
         
