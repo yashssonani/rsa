@@ -1,4 +1,4 @@
-from matg import sqrt
+from math import sqrt
 from sys import exit
 
 e = 0x10001
